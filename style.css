@@ -740,7 +740,7 @@ img {
 
 .single-hero-slide {
   width: 100%;
-  height: 950px;
+  height: 750px;
   position: relative;
   z-index: 1;
   padding: 0 30px;
@@ -2421,13 +2421,12 @@ img {
   /* font: small-caps lighter 43px/150% "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif; */
   text-align:left;
   width: 50%;
-  margin: 40px 1050px auto auto;
+  margin: 30px 650px auto auto;
   color:#fff;
   border-left: 3px solid #ed1f24;
   padding: 20px;
 }
 
-/* auto 1050px  */
 
 /* ====== The End ====== */
 
